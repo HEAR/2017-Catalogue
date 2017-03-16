@@ -13,3 +13,4 @@ Projet éditorial Catalogue, dans le cadre du cours de Jérôme Saint-Loubert Bi
 ## Articles & tutoriaux 
 
 - http://blog.cremedelacreme.io/2017/02/07/donnees-site-code-javascript-digital/
+- http://indiscripts.com/blog/public/data/idcs4-special-characters/en_InDesignCS4SpecialChars.pdf
